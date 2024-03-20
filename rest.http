@@ -1,0 +1,20 @@
+###Get All Employee
+GET http://localhost:3000/employee
+
+###Post new Employee
+POST http://localhost:3000/employee
+
+###Get a single Employee
+GET http://localhost:3000/employee/id 
+
+###Patch a single Employee
+PATCH http://localhost:3000/employee/id 
+
+###Delete a signle Employee
+DELETE http://localhost:3000/employee/id 
+
+###Get All Uset
+GET http://localhost:3000/user 
+
+###Get All Uset
+GET http://localhost:3000/wasdsada
